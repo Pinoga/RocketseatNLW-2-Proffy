@@ -22,7 +22,7 @@ A proposta da plataforma, que hoje conta com a versão web e android, é promove
   - [x] Banco: Tabela connections
   - [x] Banco: Tabela class_schedules
   
-### O que estou implementando agora :computer::coffee:
+### O que ainda falta implementar :computer::coffee:
 
 - **Web**:
   - [ ] Tela: Login (*Em progresso* :hourglass_flowing_sand:)
