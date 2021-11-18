@@ -1,4 +1,4 @@
-# Proffy - Rocketseat's Next Level Week #2
+# Proffy 2 - Rocketseat's Next Level Week #2
 
 ## Plataforma de aulas particulares 
 
